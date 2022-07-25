@@ -23,6 +23,6 @@ Refresh the page to reset the board.
 - [x] Evaluation Function
 - [x] Minimax algorithm implementation
 - [x] Alpha-Beta pruning optimization
-- [] Quiescence Search
-- [] Move Ordering
-- [] Memoization of move evaluation
+- [ ] Quiescence Search
+- [ ] Move Ordering
+- [ ] Memoization of move evaluation
