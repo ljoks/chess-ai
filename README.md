@@ -19,10 +19,10 @@ Play as white by dragging a piece to a desired location. AI will play as black a
 Refresh the page to reset the board.
 
 ## TODO
-[x] Board and Gui
-[x] Evaluation Function
-[x] Minimax algorithm implementation
-[x] Alpha-Beta pruning optimization
-[] Quiescence Search
-[] Move Ordering
-[] Memoization of move evaluation
+- [x] Board and Gui
+- [x] Evaluation Function
+- [x] Minimax algorithm implementation
+- [x] Alpha-Beta pruning optimization
+- [] Quiescence Search
+- [] Move Ordering
+- [] Memoization of move evaluation
