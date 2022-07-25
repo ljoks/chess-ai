@@ -2,16 +2,21 @@
   text-align: center;
 }
 
-#myBoard {
-  max-width: 100%;
-  height: auto;
-  overflow: scroll;
+.title {
+  /* width: 400px; */
+  /* margin: auto; */
+  text-align: center;
 }
 
-#aiBoard {
+.board {
+  width: 400px;
+  margin: auto; 
   max-width: 100%;
-  height: auto;
-  overflow: scroll;
+}
+
+.info {
+  width: 400px;
+  margin: auto;
 }
 
 .highlight-white {
